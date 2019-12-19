@@ -1,0 +1,67 @@
+{
+    "name": "Sensr.net",
+    "description": "Sensr.net keeps track of interesting images and alert you when something happens. We're starting off with basic motion detection. We keep the images around and organize them by time and day. We'll send you an email or a text message if you'd like when ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/924-sensr-net.jpg",
+    "tags": [
+        "cameras",
+        "devices",
+        "have api",
+        "internet of things",
+        "relative data",
+        "sensors",
+        "service api",
+        "surveillance",
+        "webcams"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sensr-net\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sensr.net",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/924-sensr-net.jpg",
+            "humanURL": "https:\/\/sensr.net\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sensr-net-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/sensr.net\/api"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/sensr.net\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/sensr.net\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/sensr-net"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sensr-net"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/api.sensr.net\/doc\/v3\/index.html"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sensr"
+        }
+    ]
+}
